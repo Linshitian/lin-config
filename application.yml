@@ -1,5 +1,0 @@
-server:
-  port: 9400
-mysql:
-  port: 3600
-
